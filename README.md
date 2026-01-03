@@ -1,6 +1,6 @@
 # Customer Churn Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 Customer churn is a critical business problem where companies aim to identify customers who are likely to stop using their services.  
 This project focuses on building and evaluating machine learning models to predict customer churn based on historical customer data.
 
@@ -8,7 +8,7 @@ The goal is to help businesses take **data-driven retention decisions** by ident
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze customer behavior patterns
 - Perform data preprocessing and feature engineering
 - Train and compare multiple machine learning models
@@ -17,7 +17,7 @@ The goal is to help businesses take **data-driven retention decisions** by ident
 
 ---
 
-## 🧠 Machine Learning Models Used
+##  Machine Learning Models Used
 - Logistic Regression  
 - Decision Tree Classifier  
 - Random Forest Classifier  
@@ -25,7 +25,7 @@ The goal is to help businesses take **data-driven retention decisions** by ident
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Python**
 - **Pandas, NumPy** – Data manipulation
 - **Matplotlib, Seaborn** – Data visualization
@@ -35,7 +35,7 @@ The goal is to help businesses take **data-driven retention decisions** by ident
 
 ---
 
-## 🔍 Workflow
+##  Workflow
 1. Data Loading and Exploration  
 2. Data Cleaning & Preprocessing  
 3. Feature Encoding & Scaling  
@@ -45,7 +45,7 @@ The goal is to help businesses take **data-driven retention decisions** by ident
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
@@ -54,7 +54,7 @@ The goal is to help businesses take **data-driven retention decisions** by ident
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - Ensemble models performed better than baseline models
 - Feature scaling significantly impacted model performance
 - Random Forest and XGBoost showed strong predictive capability
@@ -71,14 +71,14 @@ Customers using basic service plans churn more frequently than those subscribed 
 Payment method and contract type influence churn behavior — customers on flexible or short-term contracts are more likely to leave.
 Ensemble models (Random Forest, XGBoost) captured non-linear patterns in customer behavior more effectively than baseline models.
 
-📊 Business Impact
+Business Impact
 
 Early identification of high-risk customers enables targeted retention campaigns
 Reduces customer acquisition costs by improving retention
 Helps businesses prioritize high-value customers for proactive engagement
 Supports data-backed decision-making instead of reactive churn handling
 
-💡 Actionable Recommendations
+Actionable Recommendations
 
 Based on the model results, businesses can:
 Design onboarding programs for new customers to reduce early churn
@@ -101,11 +101,11 @@ By translating model outputs into actionable insights, organizations can move fr
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Handling class imbalance using SMOTE
 - Model deployment using Streamlit
 - Feature importance analysis for business insights
 
 ---
 
-## 📂 Project Structure
+
